@@ -3,7 +3,6 @@ This file contains a list of useful browser extensions that can increase a devel
 
 | Extension       | URL              | Description |
 |---------------- |----------------- |-------------------------------- |
-|<img width=200/>|<img width=500/>|<img width=500/>|
 | HeadingsMap                 | https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi                     | To check if our headings are in the right place and accessible to screen readers |
 | WCAG Color contrast checker | https://chrome.google.com/webstore/detail/wcag-color-contrast-check/plnahcmalebffmaghcpcmpaciebdhgdf?hl=en | To avoid contrast problems with your application                                 |
 | Screencastify               | https://www.screencastify.com/                                                                             | To record our web app for a demo                                                 |
