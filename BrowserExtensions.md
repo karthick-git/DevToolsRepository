@@ -1,4 +1,4 @@
-###Useful Browser Extensions:
+### Useful Browser Extensions:
 This file contains a list of useful browser extensions that can increase a developer's productivity
 
 | Extension                   | URL                                                                                                        | Description                                                                      |
